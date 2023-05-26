@@ -1,0 +1,26 @@
+﻿
+
+Exercise 1:
+Write a lambda expression that takes two integers as input and returns their sum.
+
+Exercise 2:
+Create a Func delegate that accepts a string and an integer as input and returns a new string that concatenates the input string with the input integer.
+
+Exercise 3:
+Write a lambda expression that takes an array of integers as input and returns the count of even numbers in the array.
+
+Exercise 4:
+Create a Func delegate that accepts a string and returns the number of vowels present in the string.
+
+Exercise 5:
+Write a lambda expression that takes a list of strings as input and returns a new list of strings with only the elements that have a length greater than 5.
+
+Exercise 6:
+Create an Action delegate that accepts an integer and a list of integers as input. The delegate should multiply each element in the list by the input integer and print the updated list.
+
+Exercise 7:
+Write a lambda expression that takes a list of integers as input and returns the sum of all prime numbers in the list.
+
+Exercise 8:
+Create an Action delegate that accepts a list of strings and a predicate as input. The delegate should remove all elements from the list that satisfy the predicate and print the updated list.
+
